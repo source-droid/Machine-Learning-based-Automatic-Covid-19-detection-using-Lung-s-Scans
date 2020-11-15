@@ -1,0 +1,12 @@
+Saturday, November 7, 2020
+
+Discussion:
+
+present and explain project workflow, methodology, and existing work limitations
+
+Suggestions/Recommendations:
+
+Go through the papers
+select the Framework
+Dataset from IEEE
+go through Models given in paper

@@ -1,0 +1,35 @@
+Saturday, November 14, 2020
+
+Discussion:
+
+Research paper 1 (Deep-COVID Predicting COVID-19 from chest X-ray images using deep transfer learning)
+Research paper 2 (COVID-19 Deep Learning Prediction Model Using PubliclyAvailable Radiologist-Adjudicated Chest X-Ray Images asTraining Data: Preliminary Findings)
+
+Models in the paper
+ResNet18
+ResNet50
+SqueezeNet
+DenseNet-121
+Model Implementation(Pytorch)
+Dataset (https://github.com/ieee8023/covid-chestxray-dataset)
+Code (https://github.com/shervinmin/DeepCovid.git)
+
+
+Suggestions/Recommendations:
+
+pytorch 
+tensorflow
+understanding cnn
+deep learning
+transfer learning
+conventional machine learning
+deep learing MIT courses
+references of these all
+note taking
+
+Next Tasks Assigned:
+
+model should be ready in next meeting
+code should run on kaggle or colab
+limitations of this work
+synchronize colab with github
