@@ -1,0 +1,22 @@
+
+
+Course in Progress
+Data Visualization
+Problem Statement
+(Pneumonia or Covid-19)
+Define a parameter in which you will classify covid/non-covid
+
+Check Deeplizard[Python] Youtube Channel for Deeplearning
+https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
+https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
+
+
+
+Sample model
+
+>Libraries
+>Defining model
+>data loading
+>train
+>test
+>plot matrices
