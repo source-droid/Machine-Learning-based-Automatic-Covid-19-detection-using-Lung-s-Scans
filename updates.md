@@ -41,3 +41,7 @@ Folder name **My Code**
 2.Data_Preprocessing.ipynb
 
 3.Training_the_CNN.ipynb
+
+### Online Course
+**Convolutional Neural Networks**
+[Certificate](coursera.org/verify/53EHJQJJSLUC)
