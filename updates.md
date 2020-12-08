@@ -15,22 +15,29 @@ I have Combined above datasets and made a new datase.
 The Distribution of My dataset is like:
 
 *COVID-CT
+
 	*CT_COVID 349
+	
 	*CT_NonCOVID 397
 
 *covid-chestxray-dataset-master
-  *Covid19 Positive 579
+	
+	*Covid19 Positive 579
 
 
 Covid     928
---------------
+
 nonCovid  397
---------------
+
 Total 1325
---------------
+
 
 ### Files Updated
+
 Folder name **My Code**
+
 *1.Creating_Dataset.ipynb
+
 *2.Data_Preprocessing.ipynb
+
 *3.Training_the_CNN.ipynb
