@@ -44,4 +44,4 @@ Folder name **My Code**
 
 ### Online Course
 **Convolutional Neural Networks**
-[Certificate](coursera.org/verify/53EHJQJJSLUC)
+[Certificate](https://www.coursera.org/account/accomplishments/verify/53EHJQJJSLUC)
