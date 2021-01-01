@@ -8,7 +8,7 @@ VGG16<br>
 ResNet50<br>
 InceptionNet v3<br>
 
-The Results are Showen in the file [Classification_CXR_Covid.pdf](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/My%20Code/Classification_CXR_Covid.pdf)
+The Results are Shown in the file [Classification_CXR_Covid.pdf](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/My%20Code/Classification_CXR_Covid.pdf)
 
 ### Files Updated
 
