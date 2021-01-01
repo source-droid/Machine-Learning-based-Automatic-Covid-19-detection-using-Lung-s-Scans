@@ -1,10 +1,22 @@
+We have Trained our model on keras Sequential model and inspected train accuracy and test accuracy
+
+We have also gone for transfer learning:<br>
+We have taken 
+
+DenseNet121<br>
+VGG16<br>
+ResNet50<br>
+InceptionNet v3<br>
+
+The Results are Showen in the file [Classification_CXR_Covid.pdf](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/My%20Code/Classification_CXR_Covid.pdf)
+
 ### Files Updated
 
 Folder name **My Code**
 
-Classification_CXR_Covid.ipynb
+[Classification_CXR_Covid.ipynb](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/My%20Code/Classification_CXR_Covid.ipynb)
 
-Classification_CXR_Covid.pdf
+[Classification_CXR_Covid.pdf](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/My%20Code/Classification_CXR_Covid.pdf)
 
 
 ### Project Readme.md Updated
