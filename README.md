@@ -21,13 +21,17 @@ Sukkur, Sindh, Pakistan<br>
 Email: safeer.hyder@iba-suk.edu.pk<br>
 
 `Evaluator's comments`
+
 * Knowledge of existing models need to be improved. 
 * Research problem needs to be highlighted.
 * More comparative parameters must be included (AUC, ROC) , etc.
 * K-fold cross-validation must be carried out. 
 * Computation time must be reported.
 
-`Meeting updates 05 March, 2021:ˋ
+
+
+`Meeting updates 05 March, 2021∶`
+
 * Create a survey of all available chest xray datasets, with citations, using tabular format. 
 * Increase the train and test dataset to create realistic testing conditions to increase the robustness. 
 * Data augmentation can be used if needed for creating a robust model. 
