@@ -22,12 +22,12 @@ Email: safeer.hyder@iba-suk.edu.pk<br>
 
 
 Meeting updates 05 March, 2021: 
-> Create a survey of all available chest xray datasets, with citations, using tabular format. 
-> Increase the train and test dataset to create realistic testing conditions to increase the robustness. 
-> Data augmentation can be used if needed for creating a robust model. 
-> Contrast with the most recent paper results. 
-> Improve the sensitivity, specificity, accuracy, percision.
-> wrtiing thesis and jurnal paper. 
+* Create a survey of all available chest xray datasets, with citations, using tabular format. 
+* Increase the train and test dataset to create realistic testing conditions to increase the robustness. 
+* Data augmentation can be used if needed for creating a robust model. 
+* Contrast with the most recent paper results. 
+* Improve the sensitivity, specificity, accuracy, percision.
+* wrtiing thesis and jurnal paper. 
 
 # Brief Project Introduction
 The coronavirus (COVID-19) pandemic is putting healthcare systems across the world under unprecedented and increasing pressure according to the World Health Organization (WHO). With the advances in computer algorithms and especially Artificial Intelligence, the detection of this type of virus in the early stages will help in fast recovery and help in releasing the pressure off healthcare systems. One of the crucial steps in fighting COVID-19 is the ability to detect infected patients early enough and put them under special care. Detecting this disease from radiography and radiology images is perhaps one of the fastest ways to diagnose the patients. <br>
