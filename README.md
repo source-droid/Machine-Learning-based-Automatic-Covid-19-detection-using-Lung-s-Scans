@@ -42,29 +42,29 @@ Email: safeer.hyder@iba-suk.edu.pk<br>
 ________________________________________________________________________________________________________________________
 
 * Figure1-COVID-chestxray-dataset https://github.com/agchung/Figure1-COVID-chestxray-dataset
-|  Covid19 | 
-|:-----:|
-| 55 |
+  Covid19 | 
+:-----:|
+ 55 |
 > - Covid-net
 
 * Actualmed-COVID-chestxray-dataset https://github.com/agchung/Actualmed-COVID-chestxray-dataset
-|  Covid19 |   No Finding |  Not Defined  |  Total | 
-|:-----:|:-----:|:-----:|:-----:|
-| 58 | 127 | 53| 238 |
+  Covid19 | |  No Finding | |  Not Defined | |  Total | 
+:-----:||:-----:||:-----:||:-----:|
+ 58 || 127 || 53|| 238 |
 > - Covid-net
 
 
 * COVID-19 Radiography Database https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
-|  Covid19 | |  Viral Pneumonia | |  Normal | |  Total | 
-|:-----:||:-----:||:-----:||:-----:|
-| 1200 || 1345 || 1341 || 3886 |
+  Covid19 | |  Viral Pneumonia | |  Normal | |  Total | 
+:-----:||:-----:||:-----:||:-----:|
+ 1200 || 1345 || 1341 || 3886 |
 > - Covid-net<br>
 > - A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-ray Images (December 2020) <br>
 
 * covid-chestxray-dataset https://github.com/ieee8023/covid-chestxray-dataset
-|  Pneumonia/Viral/COVID-19 | | Pneumonia| |  No Finding | |  Total | 
-|:-----:||:-----:||:-----:||:-----:|
-| 520 || 81 || 18 || 619 |
+  Pneumonia/Viral/COVID-19 | | Pneumonia| |  No Finding | |  Total | 
+:-----:||:-----:||:-----:||:-----:|
+ 520 || 81 || 18 || 619 |
 > - Covid-net <br>
 > - Deep-COVID: Predicting COVID-19 from chest X-ray images using deep transfer learning <br>
 > - Deep Learning COVID-19 Features on CXR using Limited Training Data Sets <br>
@@ -72,31 +72,31 @@ ________________________________________________________________________________
 > - Automated detection of COVID-19 cases using deep neural networks with X-ray images <br>
 
 * rsna-pneumonia-detection-challenge https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
-|  Lung Opacity | |  No Lung Opacity / Not Normal | |  Normal | |  Total | 
-|:-----:||:-----:||:-----:||:-----:|
-| 9555 || 11821 || 8851 || 30227 |
+ Lung Opacity | |  No Lung Opacity / Not Normal | |  Normal | |  Total | 
+:-----:||:-----:||:-----:||:-----:|
+ 9555 || 11821 || 8851 || 30227 |
 > - Covid-net
 
 
 * CoronaHack -Chest X-Ray-Dataset https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
-|  Label | |  Label_1_Virus_category | | Label_2_Virus_category | |  Total | 
-|:-----:||:--------------------------:||:-----------------------:||:------:|
-| Normal||                             ||                         || 1576 |
-| Pnemonia|| Stress-Smoking            || ARDS                    || 2 |
-| Pnemonia|| Virus                     ||                         || 1493 |
-| Pnemonia|| Virus                     || COVID-19                || 58 |
-| Pnemonia|| Virus                     || SARS                    || 4 |
-| Pnemonia|| bacteria                  ||                         || 2772 |
-| Pnemonia|| bacteria                  || Streptococcus           || 5 |
-|         ||                           ||      **Total**          || **5910** |
+  Label | |  Label_1_Virus_category | | Label_2_Virus_category | |  Total | 
+:-----:||:--------------------------:||:-----------------------:||:------:|
+ Normal||                             ||                         || 1576 |
+ Pnemonia|| Stress-Smoking            || ARDS                    || 2 |
+ Pnemonia|| Virus                     ||                         || 1493 |
+ Pnemonia|| Virus                     || COVID-19                || 58 |
+ Pnemonia|| Virus                     || SARS                    || 4 |
+ Pnemonia|| bacteria                  ||                         || 2772 |
+ Pnemonia|| bacteria                  || Streptococcus           || 5 |
+         ||                           ||      **Total**          || **5910** |
 
 > - Deep Learning COVID-19 Features on CXR using Limited Training Data Sets
 
 
 * COVID-19 Patients Lungs X Ray Images 10000 https://www.kaggle.com/nabeelsajid917/covid-19-x-ray-10000-images
-|  Covid | |  Normal | |  Total | 
-|:-----:||:-----:||:-----:|
-| 70 || 28 || 98 |
+  Covid | |  Normal | |  Total | 
+:-----:||:-----:||:-----:|
+ 70 || 28 || 98 |
 
 > - A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-ray Images (December 2020)
 ______________________________________________________________________________________________________________________________
