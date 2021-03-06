@@ -62,9 +62,9 @@ ________________________________________________________________________________
 > - A Deep Learning Approach for COVID-19 & Viral Pneumonia Screening with X-ray Images (December 2020) <br>
 
 #### covid-chestxray-dataset https://github.com/ieee8023/covid-chestxray-dataset
-|  Pneumonia/Viral/COVID-19 | | Pneumonia| |  No Finding | |  Total | 
-|:-----:||:-----:||:-----:||:-----:|
-| 520 || 81 || 18 || 619 |
+|  Pneumonia/Viral/COVID-19 |  Pneumonia|  No Finding | Total | 
+|:-------------------------:|:---------:|:-----------:|:-----:|
+| 520                       | 81        | 18          | 619   |
 > - Covid-net <br>
 > - Deep-COVID: Predicting COVID-19 from chest X-ray images using deep transfer learning <br>
 > - Deep Learning COVID-19 Features on CXR using Limited Training Data Sets <br>
