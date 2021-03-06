@@ -48,9 +48,9 @@ ________________________________________________________________________________
 > - Covid-net
 
 * Actualmed-COVID-chestxray-dataset https://github.com/agchung/Actualmed-COVID-chestxray-dataset
-|  Covid19 | |  No Finding | |  Not Defined | |  Total | 
-|:-----:||:-----:||:-----:||:-----:|
-| 58 || 127 || 53|| 238 |
+|  Covid19 |   No Finding |  Not Defined  |  Total | 
+|:-----:|:-----:|:-----:|:-----:|
+| 58 | 127 | 53| 238 |
 > - Covid-net
 
 
