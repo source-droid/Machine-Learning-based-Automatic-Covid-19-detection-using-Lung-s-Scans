@@ -102,8 +102,44 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 
+# Three Class Model (Covid-19-Normal-Pneumonia)
+
+## Dataset Details
+
+|           |Covid |Normal |Pneumonia|Total     |
+|:---------:|:---: |:-----:|:-------:|:--------:|
+|**Train**  |1330  |1072   |1076     |3478      |
+|**Test**   | 333  | 269   |269      |871       |
+|**Total**  |1663  |1341   |1345     |**4349**  |
 
 
+`Training Time In Google Colab   1h 4min 14s`
+
+
+# Classification Report
+
+|            |precision|    recall|  f1-score|   support|
+|:----------:|:-------:|:--------:|:--------:|:--------:|
+|        0.0 |     0.98|     0.97 |    0.98  |    333   |
+|         1.0|     0.95|      0.97|     0.96 |     269  |
+|        2.0 |     0.94|     0.94 |    0.94  |    269   |
+|            |         |          |          |          |
+|   accuracy |         |          |    0.96  |    871   |
+|  macro avg |     0.96|     0.96 |    0.96  |    871   |
+|weighted avg|     0.96|      0.96|     0.96 |     871  |
+
+covid19 = 0, normal = 1 , Pnuemonia = 2<br>
+Accuracy = 96.1%
+
+
+# Accuracy and Loss Plot
+![acc_loss_plot](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/Docs/Plot%20C+N+P%20With%20Droupout%20epoch20.png)
+
+
+# Confusion Matrix
+![confusion1](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/Docs/confusion%20matrix%20C+N+P%20With%20Droupout%20epoch20.png)
+
+________________________________________________________________________________________________________________________________________________________________________
 
 
 # Brief Project Introduction
