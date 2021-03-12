@@ -109,7 +109,12 @@ ________________________________________________________________________________
 
 # Performance Metrics of Three Class Model
 
-![Table](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/Docs/Performance_Metrics_of_three_classification_model.png)
+|       |   Accuracy|    Specificity|    Sensitivity(recall)|    Precision|    F1_score|
+|-------|:---------:|:-------------:|:---------------------:|:-----------:|:----------:|
+|Overall|    97.2061|       97.8898 |               95.8668 |     95.8668 |    95.8668 |
+|Class 0|    97.2061|       99.4845 |               96.997  |     98.1763 |    97.5831 |
+|Class 1|    97.2061|       98.6486 |               96.6543 |     94.5455 |    95.5882 |
+|Class 2|    97.2061|       98.6388 |               93.6803 |     94.382  |    94.0299 |
 
 
 
