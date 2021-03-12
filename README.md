@@ -102,6 +102,17 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________
 
 
+# Performance Metrics of Binary Class Model
+
+![Table](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/Docs/Performance_Metrics_of_binary_classification_model.png)
+
+
+# Performance Metrics of Three Class Model
+
+![Table](https://github.com/source-droid/Machine-Learning-based-Automatic-Covid-19-detection-using-Lung-s-Scans/blob/main/Docs/Performance_Metrics_of_three_classification_model.png)
+
+
+
 # Three Class Model (Covid-19-Normal-Pneumonia)
 
 ## Dataset Details
