@@ -20,7 +20,7 @@ Sukkur IBA University<br>
 Sukkur, Sindh, Pakistan<br>
 Email: safeer.hyder@iba-suk.edu.pk<br>
 
-`Evaluator's comments`
+`1st Evaluation comments`
 
 * Knowledge of existing models need to be improved. 
 * Research problem needs to be highlighted.
@@ -28,6 +28,25 @@ Email: safeer.hyder@iba-suk.edu.pk<br>
 * K-fold cross-validation must be carried out. 
 * Computation time must be reported.
 
+`2st Evaluation comments`
+
+* (Preprocessing) Clean noise from the dataset. apply foreground/backgroud noise removing technique
+* Keep the image size 256x256
+* just for testing purpose(reduce the images and train the model) 200 for training 50 for testing
+* SVM and K-NN comparision
+* Add CNN Layers 2,3,4,5 just for testing purpose
+* What samples are put in PCR? Swab test or blood samples.
+* Convolution layer depth
+* cite paper from which the dataset is taken.
+* ROC needs to be checked
+* do transfer learning on Alexnet, ResNet, DenseNet, VGG-net
+* Dont compare accuracy and loss with other papers.
+* before inserting the data into CNN what operations They are doing? get some idea from their codes
+* Apply Wavelet Scattering Transform in preprocessing
+* dwt, swt wavelets do spartiaty reduce.
+* Testing time should be reported
+* Approximation image (type of wavelet scattering transform) recommended
+* PCA usage
 
 
 `Meeting updates 05 March, 2021∶`
