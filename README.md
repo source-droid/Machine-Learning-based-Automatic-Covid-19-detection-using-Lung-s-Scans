@@ -28,7 +28,7 @@ Email: safeer.hyder@iba-suk.edu.pk<br>
 * K-fold cross-validation must be carried out. 
 * Computation time must be reported.
 
-`2st Evaluation comments`
+`2nd Evaluation comments`
 
 * (Preprocessing) Clean noise from the dataset. apply foreground/backgroud noise removing technique
 * Keep the image size 256x256
